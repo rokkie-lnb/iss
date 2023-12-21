@@ -17,6 +17,7 @@ setup(
         'pandas',
         'wordcloud',
         'matplotlib',
-        'pyecharts'
+        'pyecharts',
+        'subprocess'
     ],
 )
